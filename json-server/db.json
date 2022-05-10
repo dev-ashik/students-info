@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "name": "Mike",
+      "gender": "male",
+      "age": 23,
+      "country": "ZM",
+      "hobby": [
+        "Studying"
+      ],
+      "otherInformation": "I want say nothing but try your best.",
+      "agree": false,
+      "id": 1
+    },
+    {
+      "name": "Ridoy",
+      "gender": "male",
+      "age": 23,
+      "country": "ZM",
+      "hobby": [
+        "eating",
+        "studying"
+      ],
+      "otherInformation": "sondori komola nase",
+      "agree": false,
+      "id": 2
+    }
+  ]
+}
